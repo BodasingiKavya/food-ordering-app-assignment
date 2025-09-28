@@ -72,7 +72,7 @@ flutter run
 
 
 ## Screen shots
-You can see the images of application in assets folder
+You can see the images of application in /assets folder
 
 ## Testing
 flutter test
